@@ -1,5 +1,6 @@
 # bikesharing
-[link to dashboard](https://public.tableau.com/profile/michelle.goldfinger#!/vizhome/ChallangeModule14/NYCBikeSharingStory?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/michelle.goldfinger#!/vizhome/ChallangeModule14/CheckOutTimesbyUsers)
+
 ## Overview of the analysis
 One of the key stakeholders asked to see a bike trip analysis that included graphs for the following data:
 
