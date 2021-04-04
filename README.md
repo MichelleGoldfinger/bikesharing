@@ -66,3 +66,7 @@ This last chart is a pie graph that shows the proportion of customers vs subscri
 
 ## Summary
 The result of the CitiBike data analysis is that the proportion of subscribers is higher than customers. Males tend to rent bikes more often than females and people of an unknown gender. They take short bike trips during the weekdays between the hours of 8-9am and 5-6pm (most likely to comment to and from work).
+
+Two other graphs that could be made to analyze this data could be:
+* Analysis of starting station to see what area in the city most riders are starting from.
+* Analysis of ending stations to see what area in the city most riders are ending their trips.
