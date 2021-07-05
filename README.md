@@ -2,7 +2,7 @@
 [link to dashboard](https://public.tableau.com/profile/michelle.goldfinger#!/vizhome/ChallangeModule14/NYCBikeSharing)
 
 ## Overview of the analysis
-One of the key stakeholders asked to see a bike trip analysis that included graphs for the following data:
+Bike trip analysis that included graphs for the following data:
 
 * How long bikes are checked out for all riders and genders.
 * How many trips are taken by the hour for each day of the week, for all riders and genders.
